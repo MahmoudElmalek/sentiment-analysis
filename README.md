@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/14636c6c-0fc2-4b85-885c-881795dadffc
 Project Overview
 Sentiment analysis, a sub-field of Natural Language Processing, is one of the most popular topics and research fields in data science. We will be working on social media sentiment analysis. We aim to be able to classify tweets, reviews and comments from social media as positive, negative or neutral.
 Most of the open-source datasets that we found on the internet are properly labeled and structured. Data collected by ourselves need to be properly labeled. Then, we will go through the cleaning, preprocessing and separation of test and training data steps. 
@@ -78,3 +80,12 @@ Sample of input tweets
 when I enter two tweets and I want to know what are the output of thiers
 I enter (Starbucks coffee was not as good as i thought , we boycott Starbucks)
 And the output are ['Positive', 'Negative']
+
+
+
+# Demo video for whole project
+
+
+https://github.com/user-attachments/assets/1d4531c4-14f6-4aa1-8f87-0cf9e5472deb
+
+
